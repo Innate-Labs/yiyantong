@@ -47,7 +47,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="医研通 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="医研通 首页" width="100%" />
   <br/>
   <sub><b>AI 驱动的医生职称晋升科研写作助手</b></sub>
 </div>
